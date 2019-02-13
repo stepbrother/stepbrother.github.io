@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"><symbol id="icon-facebook" viewBox="0 0 10 19">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    
+    <g id="Page-1" stroke-width="1" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M9.76616526,0.156928571 L9.76616526,3.10335714 L8.01393311,3.10335714 C7.37405216,3.10335714 6.94250454,3.23728571 6.71929026,3.50514286 C6.49607597,3.773 6.38446883,4.17478571 6.38446883,4.7105 L6.38446883,6.819875 L9.65455811,6.819875 L9.21929026,10.1234464 L6.38446883,10.1234464 L6.38446883,18.5944286 L2.96929026,18.5944286 L2.96929026,10.1234464 L0.123308113,10.1234464 L0.123308113,6.819875 L2.96929026,6.819875 L2.96929026,4.38683929 C2.96929026,3.00291071 3.35619502,1.92962202 4.13000454,1.16697321 C4.90381407,0.404324405 5.93432002,0.023 7.2215224,0.023 C8.3152724,0.023 9.16348668,0.0676428571 9.76616526,0.156928571 L9.76616526,0.156928571 Z" id="facebook" sketch:type="MSShapeGroup"/>
+    </g>
+</symbol><symbol id="icon-logo" viewBox="0 0 212 39">
+<style type="text/css"><![CDATA[
+.style0 {
+  font-size: 25px;
+  font-family: "Mido-Medium";
+  fill: rgb(0,0,0);
+}
+]]></style>
+<filter filterunits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter0">
+<feflood flood-color="rgb(134,189,221)" result="coFloodOut1"/>
+<fecomposite in="coFloodOut1" in2="SourceAlpha" operator="in" result="coOverlay1"/>
+<feblend in="coOverlay1" in2="SourceGraphic" mode="normal" result="colorOverlay1"/>
+</filter>
+<filter filterunits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter1">
+<feflood flood-color="rgb(46,59,79)" result="coFloodOut1"/>
+<fecomposite in="coFloodOut1" in2="SourceAlpha" operator="in" result="coOverlay1"/>
+<feblend in="coOverlay1" in2="SourceGraphic" mode="normal" result="colorOverlay1"/>
+</filter>
+<filter filterunits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter2">
+<feflood flood-color="rgb(40,51,69)" result="coFloodOut1"/>
+<fecomposite in="coFloodOut1" in2="SourceAlpha" operator="in" result="coOverlay1"/>
+<feblend in="coOverlay1" in2="SourceGraphic" mode="normal" result="colorOverlay1"/>
+</filter>
+<g><image x="0" y="0" width="45" height="39" filter="url(#filter0)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAnCAMAAACsXzHOAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAANlBMVEUAAADL2yrL2yrL2yrL2yrL2yrL2yrL2yrL2yrL2yrL2yrL2yrL2yrL2yrL2yrL2yrL2yr///8J7kxaAAAAEHRSTlMAIEC/z2Bw3xDvgI8wr1CfRHTUowAAAAFiS0dEEeK1PboAAADySURBVDjLlZVLFoQgDAQF/IGoff/Tjo6aACKEXrkogyT1Ytd9R3UN0aaF7jHI4RGYZik8WwBOSi84I7yo/8NYZbS5aGgJvN0wJskVp4fGWKcdwbDVLirLNPYavSKML8M6glHRpY/psi5jAhd1mW1Kl3RZ+IPp6VMXzxX5lFiX3VBoisdY+AahLhsyOTtBrwa6BFYkXebOsy4uV1rHUyVdlM3Atx3qpcuagakUn+tzViTz4DuZrBVJC4aoScplEkpKExVtF//+vFJ2wiXFSRfZFn10Ee2WRxfpgtYtpa9xVzcFRUG8bs+4htJHF/umX9Y1mB8BcR/O/mIPwgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOS0wMi0xMVQwNzo1NToyMSswMDowMIc3LLsAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTktMDItMTFUMDc6NTU6MjErMDA6MDD2apQHAAAAAElFTkSuQmCC"/><image x="27" y="1" width="40" height="38" filter="url(#filter1)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAmCAMAAACBKikvAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAANlBMVEUAAADtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCT///9ZCyMXAAAAEHRSTlMAgBAwn79g31Ag70DPcI+vXNOUKgAAAAFiS0dEEeK1PboAAAEaSURBVDjLjZTbFoQgCEW1MtIm5f+/droJCM0kT6zTyWiDOKfDD64rRpz6jAFx7PHNiBg6fAPsRlzejf7wIbz+T0ynEf2bcbp8mOJ/34o1JKKH4z9kxJXETeQCTY0PcUicsyRivtW859sTmhrpQhRFXtFgG9c/hDPP0hiUEaPgIHCt2odlV+HORfuBihOIfHP8TYseE01gDsWiKaIIsAdm+vAuFVMudXFsJA1KjF1oJa+MtUtuUdIAjS9YNFWaGyNNj7eSbNNk0fC4ij7xRExWEiKjWa0kPwN2asDJqIXTHY9Uobr2oMemvqoXydI2mema1XTU1Iz2RTdr3zEA7WU5r3N6WDeZm8yANutzg9l/RaH5GdFujR/RsTm/vKoiupVntf4AAAAldEVYdGRhdGU6Y3JlYXRlADIwMTktMDItMTFUMDc6NTU6MjErMDA6MDCHNyy7AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE5LTAyLTExVDA3OjU1OjIxKzAwOjAw9mqUBwAAAABJRU5ErkJggg=="/><text transform="translate(70.00,32.00)" class="style0" filter="url(#filter2)"><tspan x="0.00 20.25 32.77 45.30 59.27 73.00 84.30 98.07 106.35 120.22">MeegoFurn.</tspan></text></g></symbol></svg>
